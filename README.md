@@ -17,7 +17,7 @@ In order to use this app, Oen up terminal and run node index.js
 # License
 This project is licensed under the The MIT license license. 
 # Contributing
-​Contributors: Austin Alderete & multiple snippets through github and slack overflow
+​Contributors: Austin Alderete & multiple snippets through github and slack overflow.
 # Tests
 The following is needed to run the test: node sever.js
 # Questions
