@@ -16,12 +16,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/lilyhi/team-profile-generator.git"
+        "url": "git+https://github.com/austinald1/TeamProfilebuilder"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/lilyhi/team-profile-generator/issues"
+        "url": "https://github.com/austinald1/TeamProfilebuilder"
     },
-    "homepage": "https://github.com/lilyhi/team-profile-generator#readme"
+    "homepage": "https://github.com/austinald1/TeamProfilebuilder"
 }
